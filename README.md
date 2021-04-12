@@ -14,3 +14,7 @@ This will help you go through
 4) Understanding Plot elements
 5) Adding Plot elements
 6) Handling Images using Matplotlib
+
+Go through the steps given in Documentation.docx
+
+The sample file of Jupyter Notebook is also attached along with it.
