@@ -1,6 +1,6 @@
 # Getting-Started-with-Matplotlib
 
-This Matplotlib tutorial takes you through the basics Python data visualization: the anatomy of a plot, pyplot
+This Matplotlib tutorial takes you through the basics Python data visualization: the anatomy of a plot, pyplot.
 It provides object-oriented APIs for embedding plots into applications. It is similar to MATLAB in capacity and syntax.
 
 It was originally written by J.D.Hunter and is actively being developed. It is distributed under a BSD-Style License.
